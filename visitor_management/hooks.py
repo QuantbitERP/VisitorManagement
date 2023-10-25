@@ -215,3 +215,12 @@ app_license = "MIT"
 # auth_hooks = [
 #	"visitor_management.auth.validate"
 # ]
+
+
+fixtures = [
+    "User",
+    "User Permission",
+    "Company",
+    "Role",
+    "Role Profile",
+]
