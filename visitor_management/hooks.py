@@ -223,4 +223,5 @@ fixtures = [
     "Company",
     "Role",
     "Role Profile",
+    "Email Account",
 ]
